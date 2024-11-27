@@ -56,7 +56,7 @@ The function returns the average, maximum, and minimum values, along with any an
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/python-backend-interview.git](https://github.com/Naveen-Pilli-AI/python-backend-interview.git
+    git clone https://github.com/Naveen-Pilli-AI/python-backend-interview.git
     cd python-backend-interview
     ```
 
