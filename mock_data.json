@@ -1,0 +1,7 @@
+[
+    {"timestamp": "2024-11-27T10:00:00Z", "temperature": 70, "speed": 120, "status": "OK"},
+    {"timestamp": "2024-11-27T10:10:00Z", "temperature": 72, "speed": 115, "status": "OK"},
+    {"timestamp": "2024-11-27T10:20:00Z", "temperature": 75, "speed": 118, "status": "OK"},
+    {"timestamp": "2024-11-27T10:30:00Z", "temperature": 71, "speed": 122, "status": "OK"},
+    {"timestamp": "2024-11-27T10:40:00Z", "temperature": 74, "speed": 119, "status": "OK"}
+]
